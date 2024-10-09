@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Purv Patel
 
-<!--
-**Purv-8819/Purv-8819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Computer Science student from University of Illinois Chicago with strong skills in software development, full-stack web development, and a variety of programming languages. I love building projects that solve real-world problems and contribute to open-source initiatives.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages**: C++, C, Java, Python, JavaScript, HTML, CSS, SQL
+- **Frameworks**: React, Next.js
+- **Databases**: Firebase, MySQL,
+- **Other Skills**: API Development, Git, Selenium, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Certifications
+- **CodePath Advanced Technical Interview Prep**
+- **freeCodeCamp Front End Development Libraries**
+
+## 🚀 Personal Projects
+
+### Conway's Game of Life
+Developed an interactive simulation of Conway's Game of Life using [Python/JavaScript]. The project includes efficient grid manipulation and optimization techniques to handle large matrices in real-time.  
+[View the repository](https://github.com/Purv-8819/Game-of-Life)  
+
+### Chatbot Web Application with LLaMA 3.1 LLM
+Built a chatbot web application using Meta's LLaMA 3.1 large language model for handling multi-turn conversations with a React frontend and [Flask/Django] backend.  
+[View the repository](https://github.com/Purv-8819/Chatbot)  
+
+### Pantry Tracker App
+Created a pantry management app using Next.js and Firebase for real-time tracking of pantry items, expiration notifications, and user authentication.  
+[View the repository](https://github.com/Purv-8819/Pantry-Tracker)  
+
+### Web Scraper using Selenium
+Developed a Python-based web scraper using Selenium to automate the extraction of data from dynamic websites, storing it in structured formats like CSV and JSON for further analysis.  
+[View the repository](https://github.com/Purv-8819/EmailWebScraper)
+
+## 🌱 Currently Learning
+- Advanced algorithms & data structures
+- Cloud services (AWS, Google Cloud)
+- Machine Learning with Python (TensorFlow, PyTorch)
+
+## 📫 How to reach me
+- **Email**: [purvpatel905@gmail.com](mailto:purvpatel905@gmail.com)
+- **LinkedIn**: [linkedin.com/in/-purv](https://linkedin.com/in/-purv)
+
+Feel free to explore my repositories and connect with me. I'm always open to collaboration and learning opportunities!
+
