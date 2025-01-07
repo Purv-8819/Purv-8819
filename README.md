@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student from Uni
 
 ## 🚀 Personal Projects
 
-### Conway's Game of Life
-Developed an interactive simulation of Conway's Game of Life using [Python/JavaScript]. The project includes efficient grid manipulation and optimization techniques to handle large matrices in real-time.  
-[View the repository](https://github.com/Purv-8819/Game-of-Life)  
+### Pendulum Machine Learning
+Developed an interactive simulation of a pendulum on a cart. Additionally there is an option to train a custom nueral network and see the results of that. [JavaScript/React/Java]. The project includes a react/bootstap fronte end along with a Spring(Java) back end.  
+[View the repository](https://github.com/Purv-8819/Pendulum)  
 
 ### Chatbot Web Application with LLaMA 3.1 LLM
 Built a chatbot web application using Meta's LLaMA 3.1 large language model for handling multi-turn conversations with a React frontend and [Flask/Django] backend.  
